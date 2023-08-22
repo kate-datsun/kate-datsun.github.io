@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Datsun Kateryna v SEO & Kuljampa</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <!--Main container-->
+    <div class="main-container">
+        <!--Main content section-->
+        <div class="main-content-section">
+            <!--About me section-->
+            <div class="about-me-section">
+            <h2 class="about-me-profession">Открыватель-новатор в области Кулямп</h2>
+            <h1 class="my-name">Катерина Николаевна Дацун и Кулямпа</h1>
+
+            <p class="about-me-description">Молодой и талантливый зоолог, обладающий огромным потенциалом. Острый ум и страстное увлечение животным миром
+            позволяют видеть глубже обыденных наблюдений. Неуклонно стремлюсь к новым открытиям. Сочетание научной
+            аккуратности, креативности и настойчивости проложило путь к захватывающим исследованиям и вдохновит новое поколение
+            зоологов.
+            </p>
+            </div>
+            <!--My Projects section-->
+            <div class="my-project-section">
+                <h3 class="main-content-title">Проекты</h3>
+                <ol class="my-project-list">
+                    <li class="my-project-item">
+                        <span class="my-projects-text"> 
+                            <a href="https://myfifthwebsite.000webhostapp.com/kuljampa.html" class="my-projects-link">Кулямпа</a>
+                    </li>
+                </ol>
+            
+            </div>
+        <!--My work experience section-->
+        <div class="my-work-experience-section">
+            <h3 class="main-content-title">Опыт работы</h3>   
+            
+        <!--Company 3-->
+        <div class="my-work-experience-company-block">
+            <h4 class="my-work-experience-position">Главный зоолог по вопросам Кулямп<span class="my-work-experience-company"> Киевский Дом Науки</span></h4>
+            <p class="my-work-experience-period">Сентябрь 2019 - по сей час <span class="my-work-experience-divider">|</span> Украина</p>
+            <ul class="my-work-experience-duties">
+                <li class="my-work-duty">
+                    Уникальный подход к изучению микробного мира позволил раскрывать тайны их взаимодействий и роли в экосистемах, открывая
+                    новые горизонты в понимании живой природы.
+                </li>
+                <li class="my-work-duty">
+                    Проводила эксперименты.
+                </li>
+                <li class="my-work-duty">
+                    Наблюдала и конспектировала.
+                </li>
+                <li class="my-work-duty">
+                    Проводила анализ.
+                </li>
+            </ul>
+        </div>
+        <!--Company 2-->
+        <div class="my-work-experience-company-block">
+            <h4 class="my-work-experience-position">Кандидат зоологических наук<span class="my-work-experience-company"> Центр развития зоологии</span></h4>
+            <p class="my-work-experience-period">Апрель 2015 - Декабрь 2018 <span class="my-work-experience-divider">|</span> Украина</p>
+            <ul class="my-work-experience-duties">
+                <li class="my-work-duty">
+                    Руководила отделом. В подчиненнии было 8 человек.
+                </li>
+                <li class="my-work-duty">
+                    Проводила контроль.
+                </li>
+                <li class="my-work-duty">
+                    Организовывала собрания и брифинги.
+                </li>
+                    
+
+            </ul>
+        </div>
+        <!--Company 1-->
+        <div class="my-work-experience-company-block">
+            <h4 class="my-work-experience-position">Учитель биологии <span class="my-work-experience-company"> Хмельницкая СЗОШ №7</span></h4>
+            <p class="my-work-experience-period">Июль 2011 - Декабрь 2014 <span class="my-work-experience-divider">|</span> Украина</p>
+            <ul class="my-work-experience-duties">
+                <li class="my-work-duty">
+                    Преподавала ученикам 7-го класса. 
+                </li>
+                <li class="my-work-duty">
+                    Готовила к олимпиадам.
+                </li>
+                <li class="my-work-duty">
+                    Содержала в чистоте тематический класс. 
+                </li>
+            
+            </ul>
+        </div>
+
+        </div>
+        <!--Education-->
+        <div class="my-education-section">
+            <h3 class="main-content-title">Образование</h3>
+            <h4><span class="my-alma-mater"> Хмельницкий национальный университет</span></h4>
+            <h5 class="my-alma-mater-specialty">Зоолог</h5>
+            <p class="my-work-experience-period">Сентябрь 2006 - Июнь 2011 <span class="my-work-experience-divider">|</span> Украина</p>
+
+        </div>
+        </div>
+        <!--Sidebar-->
+    <aside class="sidebar-section">
+        <img src="img/IMG_20200519_220925_576.jpg" alt="my photo" width="370px">
+        <!--Contacts section-->
+        <div class="contacts-section">
+            <h3 class="sidebar-title">Обо мне в "Жёсткий SEO 18082023"</h3>
+           
+            <div>
+                <a href="https://myfifthwebsite.000webhostapp.com/pib.html" class="my-projects-link">Дацун Катерина "Жорсткий SEO 18082023"</a>
+
+        </div>
+      </div>
+
+    </aside>
+</div>
+</body>
+</html>
