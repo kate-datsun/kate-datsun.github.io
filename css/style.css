@@ -1,0 +1,231 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+.main-container {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    background-color: #fff;
+    margin: 40px auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+/* Main content section */
+
+.main-content-section {
+    padding: 100px 90px;
+}
+
+.main-content-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+/* About me section */
+
+.about-me-section {
+    margin-bottom: 40px;
+}
+
+.about-me-profession {
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.my-name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: black;
+    margin-bottom: 25px;
+}
+
+.about-me-description {
+    width: 400px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+/* About projects section */
+
+.my-project-section {
+    margin-bottom: 50px;
+}
+.my-project-list {
+    padding: 0 0 0 18px;
+}
+
+.my-project-item {
+    color: #000000;
+    font-weight: 700;
+}
+
+.my-projects-link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.my-projects-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-left: 7px;
+}
+
+.my-projects-bracket {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.my-project-dots {
+    color: #A8A8A8;
+}
+
+/* My work experience */
+
+.my-work-experience-company {
+    color: #FB6D3A;
+}
+
+.my-work-experience-position{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 10px;
+}
+
+.my-work-experience-period {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+     color: #A8A8A8;
+     margin-bottom: 10px;
+}
+.my-work-experience-divider {
+    color: #000000;   
+}
+
+.my-work-experience-duties {
+    width: 525px;
+    padding-left: 17px;
+}
+
+.my-work-duty {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.my-work-experience-company-block {
+    margin-bottom: 15px;
+}
+
+/* My education */
+.my-alma-mater {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+    margin-bottom: 10px;
+}
+
+.my-alma-mater-specialty {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-bottom: 15px;
+}
+
+
+/* Sidebar section */
+
+.sidebar-section {
+    background-color: #1E2939;
+    width: 370px;
+    height: 1319px;
+    padding: 40px 0; 
+}
+.contacts-section,
+.tech-skills-section,
+.soft-skills-section {
+    margin: 50px 0 0 40px;
+}
+.sidebar-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+/* Contacts section */
+.contacts-section-type {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+    margin-right: 8px;
+}
+.contacts-section-link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #565E6A;
+}
+
+/* Tech skills section */
+.tech-skills-list {
+    padding: 0 0 0 16px;
+}
+.tech-skills-item {
+    color: #FB6D3A;
+}
+.tech-skills-item-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+}
+
+/* Soft skills section */
+.soft-skills-list {
+    padding: 0 0 0 16px;
+}
+.soft-skills-item {
+    color: #FB6D3A;
+}
+.soft-skills-item-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+}
